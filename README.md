@@ -15,3 +15,6 @@ https://neat-python.readthedocs.io/en/latest/index.html
 
 ## TanH:
 ![TanH](https://mathworld.wolfram.com/images/interactive/TanhReal.gif)
+
+## GIF
+![flappy_neat_gif](https://github.com/andreasj0/flappy_bird_neat/blob/master/imgs/flappy_neat.gif)
